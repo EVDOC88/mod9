@@ -103,10 +103,7 @@ namespace mod9
                 NumSortEvent?.Invoke(sort, list);
             }
 
-
-
-
-
         }
 
-    } }
+    }
+}
